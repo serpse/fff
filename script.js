@@ -1,5 +1,8 @@
-prompt('what is your name?');
+let les = prompt('what is your name?');
+alert(les)
 
 
-var name= prompt('');
+
+
+let name = prompt('');
 alert('Hello, '+name+'! How are you?');
