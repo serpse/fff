@@ -1,5 +1,4 @@
-let les = prompt('what is your name?');
-alert(les)
+
 
 
 
